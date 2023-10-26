@@ -1,5 +1,5 @@
 # niches: "IT OR Information Technology", "Engineering", "Teaching", "Health Care", "Social Care", "Health and Safety"
-niches = ["IT OR Information Technology", "Engineering", "Teaching"]
+niches = ["IT OR Information Technology", "Engineering"]
 
 scraped = ["@gmail.com", "@yahoo.com", ".co.uk", "+44", "Tel"]
 
