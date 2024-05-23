@@ -1,10 +1,11 @@
-# niches: "IT OR Information Technology", "Engineering", "Teaching", "Health Care", "Social Care", "Health and Safety"
-niches = ["IT OR Information Technology", "Engineering"]
+# "IT OR Information Technology", "Engineering", "Teaching", "Health Care", "Social Care", "Health and Safety"
+niches = ["Social Care"]
 
-scraped = ["@gmail.com", "@yahoo.com", ".co.uk", "+44", "Tel"]
+# "@gmail.com", "@yahoo.com", ".co.uk", "+44", "Tel"
+scraped = ["@gmail.com", "+44"]
 
 # Sites: "uk.linkedin.com/in", "uk.linkedin.com/company", "indeed.com"
-sites = ["uk.linkedin.com/company"]
+sites = ["uk.linkedin.com/in"]
 location = "UK OR United Kingdom OR England"
 
 for site in sites:
